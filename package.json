@@ -32,7 +32,7 @@
     "@types/passport-jwt": "^3.0.3",
     "@types/passport-local": "^1.0.33",
     "bcrypt": "^3.0.7",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.11.0",
     "jest-create-mock-instance": "^1.1.0",
     "jvss-utils-functions": "^1.0.2",
