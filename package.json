@@ -31,7 +31,7 @@
     "@nestjsx/crud-typeorm": "^4.2.0",
     "@types/passport-jwt": "^3.0.3",
     "@types/passport-local": "^1.0.33",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.11.0",
     "jest-create-mock-instance": "^1.1.0",
